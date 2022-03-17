@@ -1,0 +1,32 @@
+	Code à fusionner :
+https://fablabo.net/wiki/Controleur_midi_usb_arduino
+
+_______________
+		Encodage arduino
+http://www.zpag.net/Electroniques/Audio/Norme_midi.htm
+https://www.midimountain.com/midi/midi_status.htm
+http://www.son.free.fr/Midi.html
+
+		MIDI USB sur Arduino officiel
+https://reso-nance.org/wiki/logiciels/arduino-midi/accueil
+
+		Addons IDE Arduino
+- ESP8266 : https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+		Logiciels :
+http://www.midiox.com/
+
+		Composants :
+	Multiplexeurs :
+74HC4067
+74HC4051
+	Optocoupleurs
+6N138
+
+		Arduino ISP
+	Câblage Uno > Mega
+10 > RESET
+11 > 51
+12 > 50
+13 > 52
+
